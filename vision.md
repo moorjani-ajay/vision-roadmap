@@ -1,0 +1,10 @@
+- What is Computer Vision?
+- What is OpenCV?
+- Installation of OpenCV
+- OpenCV Basic functions
+  - `cv2.line`
+  - `cv2.putText`
+  - `cv2.rectangle`
+  - `cv2.circle`
+- Filters, etc
+- Pose estimation, etc
